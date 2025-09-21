@@ -1,0 +1,3405 @@
+[
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Berapakah hasil dari 25 + 17?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "32",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "42",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "45",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "48",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Dina punya 54 permen. Dia memberikan 18 permen kepada adiknya. Berapa sisa permen Dina sekarang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "36",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "38",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "42",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "46",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Hasil dari 76 - 39 adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "35",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "37",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "43",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "47",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Ani memiliki 12 pensil. Ayahnya membelikan lagi 15 pensil. Berapa total pensil Ani sekarang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "25",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "26",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "27",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "28",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "80 - ... = 52. Angka yang tepat untuk mengisi titik-titik adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "28",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "32",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "38",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "42",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Berapakah hasil dari 6 x 8?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "42",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "46",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "48",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "52",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Ibu membeli 3 kotak telur. Setiap kotak berisi 10 telur. Berapa jumlah seluruh telur yang dibeli ibu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "13",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "20",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "30",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "40",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Hasil dari 45 : 5 adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "7",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "8",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "9",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "10",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Ayah membagikan 24 buah apel kepada 4 anaknya dengan jumlah yang sama. Berapa buah apel yang diterima setiap anak?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "4",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "5",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "6",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "8",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "... x 7 = 35. Angka yang tepat untuk mengisi titik-titik adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "3",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "4",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "5",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Bangun datar yang memiliki empat sisi sama panjang dan empat sudut siku-siku disebut...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Persegi",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Persegi panjang",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Segitiga",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Lingkaran",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Sebuah persegi memiliki sisi 5 cm. Berapakah kelilingnya?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "10 cm",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "15 cm",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "20 cm",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "25 cm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Rumus untuk mencari luas persegi panjang adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Sisi x Sisi",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Panjang + Lebar",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Panjang x Lebar",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "2 x (Panjang + Lebar)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Jika sebuah lingkaran memiliki jari-jari 7 cm, berapakah diameternya?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "7 cm",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "14 cm",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "21 cm",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "28 cm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Bangun datar yang memiliki tiga sisi disebut...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Persegi",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Segi empat",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Segitiga",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Lingkaran",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Bentuk sederhana dari 3x + 5y - 2x + 4y adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "x + 9y",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "x + y",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "5x + 9y",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "x - 9y",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Jika 2x + 3 = 11, berapakah nilai x?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "2",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "4",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "5",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "7",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Berapakah hasil dari (a + 3)(a - 2)?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "a2+a−6",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "a2−a−6",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "a2+5a−6",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "a2−5a−6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Jika diketahui x=5 dan y=−2, berapakah nilai dari 3x−2y?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "11",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "15",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "19",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "21",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "MTK",
+    "question": "Penyelesaian dari pertidaksamaan 2x−4>6 adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "x>5",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "x<5",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "x>1",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "x<1",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Berapakah luas segitiga yang memiliki alas 10 cm dan tinggi 8 cm?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "20cm2",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "40cm2",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "80cm2",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "160cm2",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Sebuah balok memiliki panjang 8 cm, lebar 5 cm, dan tinggi 3 cm. Berapakah volumenya?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "16cm3",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "40cm3",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "120cm3",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "160cm3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Besar sudut dalam segitiga siku-siku yang bukan sudut siku-siku adalah 30 derajat. Berapakah besar sudut yang lainnya?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "45 derajat",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "50 derajat",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "60 derajat",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "90 derajat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Jika sebuah kubus memiliki rusuk 6 cm, berapakah luas permukaannya?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "36cm2",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "144cm2",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "216cm2",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "256cm2",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "MTK",
+    "question": "Sebuah lingkaran memiliki keliling 44 cm. Berapakah jari-jarinya? (Gunakan π=22/7)",
+    "answers": [
+      {
+        "label": "A",
+        "text": "7 cm",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "14 cm",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "21 cm",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "22 cm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Berikut adalah data nilai ulangan matematika: 7, 8, 9, 6, 8, 7, 10. Berapakah rata-rata (mean) dari data tersebut?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "7",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "7.5",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "8",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "8.5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Median dari data 5, 8, 6, 9, 7 adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "5",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "6",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "7",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "8",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Modus dari data 3, 4, 5, 4, 6, 7, 4 adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "3",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "4",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "5",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Sebuah dadu dilempar satu kali. Berapakah peluang munculnya mata dadu genap?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "61",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "31",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "21",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "32",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "MTK",
+    "question": "Dalam sebuah kantong terdapat 5 bola merah dan 3 bola biru. Jika satu bola diambil secara acak, berapakah peluang terambilnya bola merah?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "1/2",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "5/8",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "3/2",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "3/8",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "chapter_title": "Basic Vocabulary and Greetings",
+    "subject": "Bahasa Inggris",
+    "question": "What do you say when you meet someone for the first time in the morning?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Good night",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Good afternoon",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Good morning",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Good bye",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "chapter_title": "Basic Vocabulary and Greetings",
+    "subject": "Bahasa Inggris",
+    "question": "How do you spell the word for the color of the sun?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "R-E-D",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Y-E-L-L-O-W",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "G-R-E-E-N",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "B-L-U-E",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "chapter_title": "Basic Vocabulary and Greetings",
+    "subject": "Bahasa Inggris",
+    "question": "What is the plural form of 'cat'?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "caten",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "cats",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "cat's",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "catss",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "chapter_title": "Basic Vocabulary and Greetings",
+    "subject": "Bahasa Inggris",
+    "question": "What is the opposite of 'big'?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "tall",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "small",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "fast",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "long",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "chapter_title": "Basic Vocabulary and Greetings",
+    "subject": "Bahasa Inggris",
+    "question": "What is this word? B-O-O-K.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "A thing to read",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "A thing to eat",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "A place to sleep",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "A type of animal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "chapter_title": "Simple Sentences and Objects",
+    "subject": "Bahasa Inggris",
+    "question": "Which sentence is correct?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "I a student am.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Am I a student?",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "I am a student.",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Student a I am.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "chapter_title": "Simple Sentences and Objects",
+    "subject": "Bahasa Inggris",
+    "question": "I use this to write on paper. What is it?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Eraser",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Ruler",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Pencil",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Book",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "chapter_title": "Simple Sentences and Objects",
+    "subject": "Bahasa Inggris",
+    "question": "My father is my mom's ___.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "sister",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "brother",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "husband",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "wife",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "chapter_title": "Simple Sentences and Objects",
+    "subject": "Bahasa Inggris",
+    "question": "The dog is ___ the table.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "on",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "under",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "in",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "with",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "chapter_title": "Simple Sentences and Objects",
+    "subject": "Bahasa Inggris",
+    "question": "What time is it when the sun is high in the sky?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "night",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "morning",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "noon",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "evening",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "chapter_title": "Colors, Numbers, and Animals",
+    "subject": "Bahasa Inggris",
+    "question": "What number comes after twelve?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "ten",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "eleven",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "thirteen",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "fourteen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "chapter_title": "Colors, Numbers, and Animals",
+    "subject": "Bahasa Inggris",
+    "question": "Which animal says \"Moo\"?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "dog",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "cow",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "cat",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "chicken",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "chapter_title": "Colors, Numbers, and Animals",
+    "subject": "Bahasa Inggris",
+    "question": "The color of grass is ___.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "blue",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "red",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "green",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "yellow",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "chapter_title": "Colors, Numbers, and Animals",
+    "subject": "Bahasa Inggris",
+    "question": "How many legs does a spider have?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "four",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "six",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "eight",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "ten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "chapter_title": "Colors, Numbers, and Animals",
+    "subject": "Bahasa Inggris",
+    "question": "If today is Monday, what day was it yesterday?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tuesday",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sunday",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Wednesday",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Saturday",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Bahasa Inggris",
+    "question": "She ___ to the library yesterday.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "go",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "goes",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "going",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "went",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Bahasa Inggris",
+    "question": "We ___ football right now.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "playing",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "play",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "are playing",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "played",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Bahasa Inggris",
+    "question": "I have ___ my homework.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "finish",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "finishing",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "finished",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "finishes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Bahasa Inggris",
+    "question": "They ___ a new car next year.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "will buy",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "bought",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "buys",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "buying",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Bahasa Inggris",
+    "question": "The sun ___ in the east.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "rise",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "rose",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "rising",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "rises",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Bahasa Inggris",
+    "question": "She is taller ___ her brother.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "than",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "then",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "as",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "from",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Bahasa Inggris",
+    "question": "This is the house ___ I grew up.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "which",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "who",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "where",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "what",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Bahasa Inggris",
+    "question": "I have ___ money in my wallet.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "a few",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "many",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "a little",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "a lot of",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Bahasa Inggris",
+    "question": "He can't swim, so he ___ go to the pool.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "mustn't",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "should",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "doesn't have to",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "must",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Bahasa Inggris",
+    "question": "What is the passive voice of \"The teacher teaches the students\"?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "The students are taught by the teacher.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "The students teach the teacher.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "The teacher is taught by the students.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "The students were taught by the teacher.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Bahasa Inggris",
+    "question": "Read the text: \"I woke up at 6 a.m., took a shower, and had breakfast. Then I went to school by bus.\" What did the person do after waking up?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Had breakfast",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Went to school",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Took a shower",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Took the bus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Bahasa Inggris",
+    "question": "What is a synonym for 'happy'?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "sad",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "excited",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "angry",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "tired",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Bahasa Inggris",
+    "question": "What is the main idea of a text?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "The first sentence",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "The details",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "The central point or message",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "The conclusion",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Bahasa Inggris",
+    "question": "A person who writes books is called a(n) ___.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "artist",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "musician",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "author",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "actor",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Bahasa Inggris",
+    "question": "If you are feeling 'exhausted,' it means you are very ___.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "happy",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "sleepy",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "tired",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "hungry",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "",
+    "question": "Apa ibu kota dari Indonesia?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Jakarta",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Singapura",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kuala Lumpur",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Bangkok",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Apa ibu kota dari Indonesia?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Jakarta",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Singapura",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kuala Lumpur",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Bangkok",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Negara mana yang terkenal dengan Menara Eiffel?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Italia",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Spanyol",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Perancis",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Jerman",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Ibu kota dari Jepang adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Seoul",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Beijing",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tokyo",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Taipei",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Negara apa yang terkenal dengan Tembok Besar?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "India",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Mesir",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tiongkok",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Rusia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Ibu kota Amerika Serikat adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "New York",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Los Angeles",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chicago",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Washington D.C.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Benua terluas di dunia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Afrika",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Eropa",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Asia",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Amerika",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Negara mana yang terletak di Benua Australia?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Selandia Baru",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Australia",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Indonesia",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Papua Nugini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Samudra terluas di dunia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Samudra Atlantik",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Samudra Hindia",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Samudra Pasifik",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Samudra Arktik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Benua yang seluruh wilayahnya tertutup es adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Antartika",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Arktik",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Greenland",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Islandia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Benua mana yang terkenal dengan piramidanya?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Asia",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Eropa",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Amerika Selatan",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Afrika",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Gunung tertinggi di dunia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Gunung Everest",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Gunung Kilimanjaro",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Gunung Fuji",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Gunung Bromo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Sungai terpanjang di dunia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Sungai Amazon",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sungai Nil",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Sungai Yangtze",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Sungai Mississippi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Gurun terluas di dunia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Gurun Sahara",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Gurun Gobi",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Gurun Kalahari",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Gurun Arab",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Negara mana yang terkenal dengan Tembok Ratapan?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tiongkok",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Italia",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Israel",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Mesir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Kenampakan alam yang sering disebut \"paru-paru dunia\" adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Gurun",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Hutan hujan tropis",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Pegunungan",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Pantai",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Pergeseran lempeng tektonik dapat menyebabkan...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Angin puting beliung",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Tsunami",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Hujan asam",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Kekeringan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Fenomena yang menyebabkan siang dan malam adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Revolusi Bumi",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Rotasi Bumi",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Revolusi Bulan",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Rotasi Bulan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Jenis iklim yang ditemukan di daerah khatulistiwa adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Iklim subtropis",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Iklim sedang",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Iklim tropis",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Iklim kutub",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Garis imajiner yang membagi Bumi menjadi belahan utara dan selatan adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Garis Bujur",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Garis Lintang",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Garis Khatulistiwa",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Garis Balik Utara",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Negara",
+    "question": "Berapakah persentase air tawar yang dapat diakses manusia di Bumi?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Sekitar 70%",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Kurang dari 1%",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Sekitar 10%",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Sekitar 50%",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Kepadatan penduduk di suatu wilayah diukur dengan...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Jumlah penduduk per kilometer persegi",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Jumlah penduduk total",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Angka kelahiran dan kematian",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Jumlah migrasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Migrasi dari desa ke kota disebut...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Emigrasi",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Imigrasi",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Urbanisasi",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Transmigrasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Sektor ekonomi yang bergerak di bidang pertanian dan perikanan disebut sektor...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Primer",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Sekunder",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tersier",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Kuarter",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Bahasa yang paling banyak digunakan di dunia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Spanyol",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Mandarin",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Inggris",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Hindi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Negara",
+    "question": "Salah satu masalah lingkungan global yang disebabkan oleh emisi gas rumah kaca adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Deforestasi",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Pemanasan global",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Polusi air",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Tanah longsor",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Apa yang ditunjukkan oleh skala pada peta?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Jarak sebenarnya di lapangan",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Arah utara",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Warna",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Simbol",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Bangunan ikonik yang berbentuk piramida dengan mata yang besar di Giza, Mesir adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Piramida Khufu",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sphinx",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Piramida Djoser",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Piramida Khafre",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Terusan yang menghubungkan Samudra Atlantik dan Samudra Pasifik adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Terusan Suez",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Terusan Panama",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Terusan Kiel",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Terusan Korintus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Fungsi dari garis lintang dan bujur pada peta adalah untuk menentukan...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Ketinggian tempat",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lokasi absolut suatu tempat",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Suhu",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Kecepatan angin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Negara",
+    "question": "Negara mana yang terkenal dengan patung Liberty?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Perancis",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Inggris",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Amerika Serikat",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Kanada",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Kerajaan Hindu pertama di Indonesia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Majapahit",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sriwijaya",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kutai",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "TarumaNegara",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Raja terkenal dari Kerajaan Majapahit yang berhasil menyatukan Nusantara adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Gajah Mada",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Hayam Wuruk",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Raden Wijaya",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Ken Arok",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Candi Borobudur, sebuah peninggalan bersejarah, dibangun oleh Kerajaan...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Mataram Kuno",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Sriwijaya",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kutai",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Singasari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Kerajaan Sriwijaya terkenal sebagai pusat perdagangan dan penyebaran agama...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hindu",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Buddha",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Islam",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Kristen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Sumpah yang diucapkan Gajah Mada untuk menyatukan Nusantara dikenal dengan nama...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Sumpah Palapa",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Sumpah Pemuda",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Sumpah Nusantara",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Sumpah Setia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Bangsa Eropa pertama yang datang ke Indonesia untuk mencari rempah-rempah adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Inggris",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Belanda",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Portugis",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Spanyol",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Organisasi dagang milik Belanda yang memonopoli perdagangan di Indonesia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "VOC",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "EIC",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kongsi Dagang",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Perusahaan Belanda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Salah satu pahlawan dari Jawa yang memimpin perlawanan terhadap Belanda adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Pattimura",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Diponegoro",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cut Nyak Dien",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Imam Bonjol",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Jepang menjajah Indonesia pada tahun...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "1942-1945",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "1945-1949",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "1900-1942",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "1800-1945",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Istilah yang digunakan untuk kerja paksa pada masa penjajahan Belanda adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Romusha",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Tanam Paksa",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Kerja Bakti",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Transmigrasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Peristiwa yang mengikat para pemuda Indonesia untuk bersatu adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Proklamasi Kemerdekaan",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sumpah Pemuda",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Perjanjian Linggarjati",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Konferensi Meja Bundar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Tanggal berapa Sumpah Pemuda diikrarkan?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "17 Agustus 1945",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "28 Oktober 1928",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "1 Juni 1945",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "10 November 1945",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Tokoh yang membacakan teks Proklamasi Kemerdekaan Indonesia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Mohammad Hatta",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Soekarno",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Jenderal Sudirman",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Sutan Sjahrir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Proklamasi Kemerdekaan Indonesia terjadi pada tanggal...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "17 Agustus 1945",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "10 November 1945",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "28 Oktober 1928",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "1 Juni 1945",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 1,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Siapakah yang pertama kali menjahit Bendera Merah Putih?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Fatmawati",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Kartini",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cut Nyak Dien",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Dewi Sartika",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Presiden pertama Republik Indonesia adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Soeharto",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Abdurrahman Wahid",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Soekarno",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "B.J. Habibie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Puncak perjuangan Indonesia dalam merebut Irian Barat terjadi melalui operasi...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Trikora",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Dwikora",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Mandala",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Seroja",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Dekrit Presiden 5 Juli 1959 dikeluarkan oleh Presiden Soekarno yang isinya adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Pembubaran kabinet",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Pembentukan kabinet baru",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kembali ke UUD 1945",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Pembentukan Dewan Perwakilan Rakyat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Konfrontasi Indonesia dengan Malaysia dikenal dengan istilah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Ganyang Malaysia",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Dwi Komando Rakyat (Dwikora)",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Tiga Komando Rakyat (Trikora)",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Operasi Seroja",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 1,
+    "subject": "Sejarah",
+    "question": "Gerakan 30 September 1965 (G30S/PKI) menyebabkan berakhirnya masa pemerintahan...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Orde Baru",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Orde Lama",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Reformasi",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Liberal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Siapakah presiden kedua Republik Indonesia?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Soekarno",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Soeharto",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "B.J. Habibie",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Megawati Soekarnoputri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Peristiwa penting yang menandai berakhirnya masa Orde Baru adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Pemilu 1999",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Kerusuhan Mei 1998",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tragedi Trisakti",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Semua jawaban benar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Presiden yang menjabat setelah Soeharto mengundurkan diri adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Megawati Soekarnoputri",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Abdurrahman Wahid",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "B.J. Habibie",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Susilo Bambang Yudhoyono",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Tujuan utama dari Gerakan Reformasi 1998 adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Menurunkan harga BBM",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Menggulingkan Presiden Soeharto dan melakukan reformasi total",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Melakukan pemilu ulang",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Memperbaiki ekonomi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 2,
+    "subject": "Sejarah",
+    "question": "Pada masa reformasi, perubahan UUD 1945 dilakukan sebanyak...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Dua kali",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Tiga kali",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Empat kali",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Lima kali",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Perjanjian antara Indonesia dan Belanda yang mengakui kedaulatan de facto Indonesia atas Jawa dan Sumatera adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Perjanjian Linggarjati",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Perjanjian Renville",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Konferensi Meja Bundar",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Perjanjian Roem-Royen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Pertempuran 10 November 1945 di Surabaya dikenal dengan sebutan...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Peristiwa Bandung Lautan Api",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Hari Pahlawan",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Perang Puputan",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Serangan Umum 1 Maret",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Pahlawan nasional yang terkenal dengan semboyan 'Sekali Merdeka Tetap Merdeka' adalah...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Bung Tomo",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Jenderal Sudirman",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tan Malaka",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Sutan Sjahrir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Serangan umum yang dilancarkan tentara Indonesia di Yogyakarta pada 1 Maret 1949 dipimpin oleh...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Soekarno",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Jenderal Sudirman",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Jenderal Soeharto",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Jenderal Ahmad Yani",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "chapter": 3,
+    "subject": "Sejarah",
+    "question": "Akhir dari perjuangan fisik dan diplomasi Indonesia untuk mendapatkan pengakuan kedaulatan penuh adalah melalui...",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Perjanjian Linggarjati",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Perjanjian Renville",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Perjanjian Roem-Royen",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Konferensi Meja Bundar (KMB)",
+        "correct": true
+      }
+    ]
+  }
+]
